@@ -1,0 +1,16 @@
+idProducto,nombre,precio,categoria,cantidad_almacenada,idProveedor
+191,Café en Grano 250g,12.99,Café,30,212
+192,Té Negro 100g,9.99,Té,20,214
+193,Prensa Francesa,24.99,Accesorios,50,215
+194,Taza de Cerámica,8.50,Accesorios,50,213
+195,Galletas de Café,6.99,Snacks,30,214
+196,Café Molido 500g,14.99,Café,50,212
+197,Termo de Acero Inoxidable,19.99,Accesorios,20,217
+198,Taza de Viaje,12.50,Accesorios,30,213
+199,Cafetera Eléctrica,39.99,Electrodomésticos,40,216
+200,Taza Grande de Porcelana,9.99,Accesorios,49,213
+201,Azúcar de Caña,4.50,Ingredientes,50,214
+202,Café en Cápsulas,16.99,Café,60,212
+203,Termo para Café,22.50,Accesorios,10,217
+204,Pastel de Café,14.99,Postres,30,214
+205,Taza de Espresso,7.99,Accesorios,50,213
