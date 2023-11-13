@@ -1,16 +1,16 @@
-idOrden,cliente,fechaOrden,monto,producto,cantidad_requerida,idCliente
-176,Juan Pérez,2023-11-10,150.00,Café en Grano 250g,2,101
-177,Ana Gomez,2023-11-10,150.00,Prensa Francesa,1,102
-178,Carlos Rodriquez,2023-11-09,89.99,Galletas de Café,3,103
-179,Laura Sanchez,2023-11-08,200.50,Café Molido 500g,1,104
-180,Miguel Garcia,2023-11-08,200.50,Taza de Cerámica,2,105
-181,Sofia Hernandez,2023-11-07,120.75,Cafetera Eléctrica,1,106
-182,David Lopez,2023-11-07,120.75,Café en Grano 250g,1,107
-183,Marta Ruiz,2023-11-06,300.25,Café Descafeinado 250g,2,108
-184,Alejandro Torres,2023-11-05,50.00,Taza Grande de Porcelana,1,109
-185,Isabel Martinez,2023-11-04,180.99,Azúcar de Caña,4,110
-186,Pablo castro,2023-11-03,75.50,Café en Cápsulas,3,111
-187,Elena Diaz,2023-11-02,220.75,Termo para Café,2,112
-188,Fernando Jimenez,2023-11-02,220.75,Taza de Espresso,1,113
-189,Sara Navarro,2023-11-01,90.00,Pastel de Café,1,114
-190,Javier Vargas,2023-10-31,130.50,Café en Grano 250g,1,115
+idOrden,fechaOrden,monto,producto1,cantidad_requerida1,producto2,cantidad_requerida2,producto3,cantidad_requerida3,idCliente
+176,2023-11-10,25.98,191,2,0,0,0,0,101
+177,2023-11-10,59.47,193,1,191,2,194,1,102
+178,2023-11-09,50.95,195,3,196,2,0,0,103
+179,2023-11-08,14.99,196,1,0,0,0,0,104
+180,2023-11-08,17.00,194,2,0,0,0,0,105
+181,2023-11-07,48.99,199,1,201,2,0,0,106
+182,2023-11-07,26.49,191,1,201,3,0,0,107
+183,2023-11-06,29.98,196,2,0,0,0,0,108
+184,2023-11-05,32.49,200,1,203,1,0,0,109
+185,2023-11-04,18.00,201,4,0,0,0,0,110
+186,2023-11-03,50.97,202,3,0,0,0,0,111
+187,2023-11-02,39.98,197,2,0,0,0,0,112
+188,2023-11-02,88.48,205,1,203,3,191,1,113
+189,2023-11-01,48.97,204,1,202,2,0,0,114
+190,2023-10-31,14.99,196,1,0,0,0,0,115
