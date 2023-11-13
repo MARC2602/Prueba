@@ -1,16 +1,16 @@
 idCliente,nombre,edad,telefono,sexo,tieneTitulo,idOrden,idTitulo,idAficcion
-101,Juan Perez,30,123456789,M,false,176,164,146
+101,Juan Perez,30,123456789,M,false,176,0,146
 102,Ana Gomez,25,987654321,F,true,177,166,150
-103,Carlos Rodriguez,35,555555555,M,false,178,169,149
+103,Carlos Rodriguez,35,555555555,M,false,178,0,149
 104,Laura Sanchez,28,999888777,F,true,179,166,147
-105,Miguel Garcia,40,111122223,M,false,180,163,148
-106,Sofia Hernandez,22,333444555,F,false,181,161,152
+105,Miguel Garcia,40,111122223,M,false,180,0,148
+106,Sofia Hernandez,22,333444555,F,false,181,0,152
 107,David Lopez,32,777777777,M,true,182,161,148
-108,Marta Ruiz,27,666666666,F,false,183,163,147
+108,Marta Ruiz,27,666666666,F,false,183,0,147
 109,Alejandro Torres,38,444444444,M,true,184,162,153
-110,Isabel Martinez,29,111111111,F,false,185,166,160
-111,Pablo Castro,33,888888888,M,false,186,167,154
-112,Elena Diaz,26,222333444,F,false,187,165,157
+110,Isabel Martinez,29,111111111,F,false,185,0,160
+111,Pablo Castro,33,888888888,M,false,186,0,154
+112,Elena Diaz,26,222333444,F,false,187,0,157
 113,Fernando Jimenez,45,123123123,M,true,188,161,155
-114,Sara Navarro,31,456789012,F,false,189,162,150
-115,Javier Vargas,24,789012345,M,false,190,165,149
+114,Sara Navarro,31,456789012,F,false,189,0,150
+115,Javier Vargas,24,789012345,M,false,190,0,149
