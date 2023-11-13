@@ -1,0 +1,16 @@
+idOrden,cliente,fechaOrden,monto,producto,cantidad_requerida,idCliente
+176,Juan Pérez,2023-11-10,150.00,Café en Grano 250g,2,101
+177,Ana Gomez,2023-11-10,150.00,Prensa Francesa,1,102
+178,Carlos Rodriquez,2023-11-09,89.99,Galletas de Café,3,103
+179,Laura Sanchez,2023-11-08,200.50,Café Molido 500g,1,104
+180,Miguel Garcia,2023-11-08,200.50,Taza de Cerámica,2,105
+181,Sofia Hernandez,2023-11-07,120.75,Cafetera Eléctrica,1,106
+182,David Lopez,2023-11-07,120.75,Café en Grano 250g,1,107
+183,Marta Ruiz,2023-11-06,300.25,Café Descafeinado 250g,2,108
+184,Alejandro Torres,2023-11-05,50.00,Taza Grande de Porcelana,1,109
+185,Isabel Martinez,2023-11-04,180.99,Azúcar de Caña,4,110
+186,Pablo castro,2023-11-03,75.50,Café en Cápsulas,3,111
+187,Elena Diaz,2023-11-02,220.75,Termo para Café,2,112
+188,Fernando Jimenez,2023-11-02,220.75,Taza de Espresso,1,113
+189,Sara Navarro,2023-11-01,90.00,Pastel de Café,1,114
+190,Javier Vargas,2023-10-31,130.50,Café en Grano 250g,1,115
